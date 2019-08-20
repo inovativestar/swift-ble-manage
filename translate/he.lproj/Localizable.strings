@@ -1,0 +1,34 @@
+/*
+ Localizable.strings
+ IntercomClientOpenDoor
+ 
+ Created by my on 5/8/19.
+ Copyright © 2019 newlinks. All rights reserved.
+ */
+"open_door"="פתח דלת";
+"no_devices_press_to_find"="אין התקנים\nלחץ למציאה";
+"find"="חפש";
+
+"scanning_for_devices"="מחפש התקנים";
+"select_device"="בחר התקן לחיבור";
+"scan_for_devices"="סרוק התקנים";
+"guest_name"="שם אורח";
+"enter_old_password" = "הכנס סיסמא ישנה";
+"enter_name"="הכנס שם";
+"enter_new_password" = "הכנס סיסמא חדשה";
+"confirm" = "אשר";
+"cancel" = "בטל";
+"enter_password" = "הכנס סיסמא";
+"confirm_password_incorrect" = "אנא וודא סיסמה.";
+"invalid_old_password" = "סיסמא ישנה שגויה";
+"short_password" = "סיסמא צריכה להיות 6 תווים";
+"delete"="מחק";
+"change_password"="שנה סיסמא";
+"whoops"="אופס";
+"password_invalid" = "סיסמא שגויה";
+"bluetooth_is_off" = "  מכובה Bluetooth";
+"go_to_settings" = "עבור להגדרות";
+"please_turn_bluetooth" = "bluetooth אנא הדלק";
+"enter_confirm_passowrd" = "הכנס הסיסמא שנית";
+"cancel_default" = "בטל ברירת מחדל";
+"make_default" = "סמן כברירת מחדל";
